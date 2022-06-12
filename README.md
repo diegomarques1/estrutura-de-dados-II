@@ -36,7 +36,7 @@ O código inicial de AVL foi fornecido pelo prof. Jean Marcos Laine, bem como al
 
 ### 6 - Projetos ###
 
-- Projeto 1: construir um pequeno banco de dados por meio de uma BST levando em consideração um registro com código ISBN, nome do autor, título do livro, editora, ano de publicação e preço de venda.
+- Projeto 1: construir um pequeno banco de dados para livros por meio de uma BST, levando em consideração um registro com código ISBN, nome do autor, título do livro, editora, ano de publicação e preço de venda.
 
 
-- Projeto 2: criação de cadastro de prestadores de serviços turísticos do Brasil utilizzando árvore AVL, lendo um arquivo .csv de entrada e fornecendo as operações de montar a árvore a partir deste arquivo, buscar um título na árvore e imprimir a árvore inteira. Por questões de tempo e tamanho do arquivo, coloquei uma versão reduzida do arquivo Excel no diretório.
+- Projeto 2: criação de cadastro de prestadores de serviços turísticos do Brasil utilizando árvore AVL, lendo um arquivo .csv de entrada e fornecendo as operações de montar a árvore a partir deste arquivo, buscar um título na árvore e imprimir a árvore inteira. Por questões de tempo e tamanho do arquivo, coloquei uma versão reduzida do arquivo Excel no diretório.
